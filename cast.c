@@ -15,3 +15,4 @@ int main(int argc, char const *argv[])
     printf("A soma é: %.3f\n",soma);
     return 0;
 }
+//oi meu nome é tom
