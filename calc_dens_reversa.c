@@ -38,6 +38,8 @@ int main(int argc, char const *argv[])
     printf("Qual o numero total de habitantes da cidade 2? : ");
     scanf("%f",&pop2);
 
+    printf("\n");
+    
     densidade_inversa1 = calcula_densidade_inversa(area1,pop1);//chamada da funcao
     printf("Resultado densidade demografica inversa cidade 1: %.8Lf\n",calcula_densidade_inversa((long double)area1,(long double)pop1));// L É OBRIGSTORIO PARA LONG DOUBLE
     // os parametros area1 e pop1 foram passados na chamada da função usando casting porque area e pop sao tipo float
