@@ -7,3 +7,4 @@ Repostorio dedicado aos arquivos com os exercicios realizados durante o Semestre
 Tema 1 
 Professor Sérgio Cardoso.
 repositório clonado , seguimos rumo ao conhecimento!!
+Vamos pra cima!
